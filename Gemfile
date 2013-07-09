@@ -41,5 +41,10 @@ end
 # Use Capistrano for deployment
 # gem 'capistrano', group: :development
 
-# Use debugger
-# gem 'debugger', group: [:development, :test]
+#Use debugger
+gem 'debugger', group: [:development, :test]
+
+gem 'rspec', '~>2.14.0'
+
+# Bootstrap from twitter
+gem 'bootstrap-sass', '~> 2.3.2.0'
