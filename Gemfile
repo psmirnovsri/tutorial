@@ -54,3 +54,8 @@ gem 'annotate'
 
 # Password Encryption
 gem 'bcrypt-ruby', '~>3.0.0'
+
+# Pagination
+gem 'will_paginate'
+
+gem 'faker'
