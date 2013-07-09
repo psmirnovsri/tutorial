@@ -48,3 +48,9 @@ gem 'rspec', '~>2.14.0'
 
 # Bootstrap from twitter
 gem 'bootstrap-sass', '~> 2.3.2.0'
+
+#annotate gem
+gem 'annotate'
+
+# Password Encryption
+gem 'bcrypt-ruby', '~>3.0.0'
